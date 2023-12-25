@@ -2,7 +2,7 @@
 
 FetchContent_Declare(
     zlib
-    GIT_REPOSITORY https://github.com/madler/zlib.git
+    GIT_REPOSITORY https://gh.api.99988866.xyz/https://github.com/madler/zlib.git
     GIT_TAG        cacf7f1d4e3d44d871b605da3b647f07d718623f # 1.2.11
 )
 FetchContent_GetProperties(zlib)
